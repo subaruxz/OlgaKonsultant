@@ -1,0 +1,11 @@
+flask
+gtts
+openai
+flask-cors
+g4f
+dataset
+openai==0.27.8
+pyttsx3
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
